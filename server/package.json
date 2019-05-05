@@ -1,0 +1,16 @@
+{
+  "name": "sbu_quiz_app_server",
+  "version": "1.0.0",
+  "description": "The back-end server to get the uploaded files from students in quizes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parsa Hejabi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "formidable": "^1.2.1"
+  }
+}
