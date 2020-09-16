@@ -1,7 +1,6 @@
 {
-  "name": "SBU-QuizAPP",
+  "name": "sbu-quiz-app",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "bootstrap": "^4.5.2",
     "history": "^5.0.0",
