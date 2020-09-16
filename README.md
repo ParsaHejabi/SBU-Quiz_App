@@ -202,15 +202,15 @@ Project Link: [https://github.com/ParsaHejabi/SBU-Quiz_App](https://github.com/P
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ParsaHejabi/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/ParsaHejabi/SBU-Quiz_App.svg?style=flat-square
 [contributors-url]: https://github.com/ParsaHejabi/SBU-Quiz_App/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ParsaHejabi/repo.svg?style=flat-square
-[forks-url]: https://github.com/ParsaHejabi/AdobeConnectExporter/network/members
-[stars-shield]: https://img.shields.io/github/stars/ParsaHejabi/repo.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/ParsaHejabi/SBU-Quiz_App.svg?style=flat-square
+[forks-url]: https://github.com/ParsaHejabi/SBU-Quiz_App/network/members
+[stars-shield]: https://img.shields.io/github/stars/ParsaHejabi/SBU-Quiz_App.svg?style=flat-square
 [stars-url]: https://github.com/ParsaHejabi/SBU-Quiz_App/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ParsaHejabi/repo.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/ParsaHejabi/SBU-Quiz_App.svg?style=flat-square
 [issues-url]: https://github.com/ParsaHejabi/SBU-Quiz_App/issues
-[license-shield]: https://img.shields.io/github/license/ParsaHejabi/repo.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/ParsaHejabi/SBU-Quiz_App.svg?style=flat-square
 [license-url]: https://github.com/ParsaHejabi/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/parsa-hejabi/
